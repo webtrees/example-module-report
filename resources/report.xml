@@ -4,6 +4,8 @@
 	<Description><var var="I18N::translate('Report')" /></Description>
 
     <Style name="text" size="10"/>
+    <Style name="genby" font="$fonts" size="8" />
+
 	<Doc>
 		<Body>
 		</Body>
